@@ -64,6 +64,9 @@ Edit info.py with variables as given below then run bot
 python3 bot.py
 </pre>
 </p>
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Lazyindu/new&branch=koyeb&name=urlshortautofilterboxt)
+
 </details>
 
 
